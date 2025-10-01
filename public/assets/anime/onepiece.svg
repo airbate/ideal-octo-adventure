@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300">
+  <!-- 背景 -->
+  <rect width="800" height="300" fill="#1a365d"/>
+  
+  <!-- 波浪纹理背景 -->
+  <defs>
+    <pattern id="wave-pattern" patternUnits="userSpaceOnUse" width="200" height="40" patternTransform="scale(4) rotate(0)">
+      <path d="M0,20 C30,10 70,30 100,20 C130,10 170,30 200,20 L200,40 L0,40 Z" fill="rgba(255,255,255,0.05)"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="300" fill="url(#wave-pattern)"/>
+  
+  <!-- 海盗标志框架 -->
+  <g transform="translate(400, 150)" stroke="#000" stroke-width="10" fill="none">
+    <rect x="-350" y="-80" width="700" height="160" rx="10"/>
+    <rect x="-360" y="-90" width="720" height="180" rx="15"/>
+    
+    <!-- 交叉骨头 -->
+    <path d="M-200,0 L-100,0 L-80,80 L-120,80 L-140,120 L-80,120 L-60,200 L-120,200 L-140,160 L-160,180 L-200,160 L-180,120 L-220,120 L-240,80 L-200,80 L-180,0" stroke="#000" stroke-width="15" fill="none"/>
+    <path d="M200,0 L100,0 L120,80 L80,80 L60,120 L120,120 L140,200 L80,200 L60,160 L40,180 L0,160 L20,120 L-20,120 L-40,80 L0,80 L20,0" stroke="#000" stroke-width="15" fill="none"/>
+  </g>
+  
+  <!-- 骷髅头 -->
+  <g transform="translate(250, 120)" stroke="#000" stroke-width="15" fill="white">
+    <circle cx="0" cy="0" r="60"/>
+    <circle cx="-30" cy="-15" r="15" fill="black"/>
+    <circle cx="30" cy="-15" r="15" fill="black"/>
+    <path d="M-40,20 L40,20" stroke="#000" stroke-width="10" fill="none"/>
+    <path d="M-35,40 C-20,60 20,60 35,40" stroke="#000" stroke-width="10" fill="none"/>
+    <!-- 帽子 -->
+    <path d="M-80,-60 L80,-60 L70,-20 L10,-20 L0,-40 L-10,-20 L-70,-20 Z" fill="white" stroke="#000" stroke-width="10"/>
+    <path d="M-70,-20 L-10,-20 L0,-40 L10,-20 L70,-20" fill="#ff6b6b" stroke="#000" stroke-width="5"/>
+    <!-- 围巾 -->
+    <path d="M-40,60 C-60,100 -40,140 0,140 C40,140 60,100 40,60" fill="#000" stroke="none"/>
+    <path d="M-40,60 C-60,80 -40,100 0,100 C40,100 60,80 40,60" fill="none" stroke="white" stroke-width="5"/>
+  </g>
+  
+  <!-- ONE PIECE 文字 -->
+  <g transform="translate(480, 140)">
+    <text x="0" y="0" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="60" font-weight="bold" fill="white" stroke="#000" stroke-width="6">ONE PIECE</text>
+  </g>
+  
+  <!-- 路飞剪影 -->
+  <g transform="translate(550, 130)" stroke="#000" stroke-width="8" fill="none">
+    <path d="M0,-30 C-10,-60 -20,-80 0,-100 C20,-80 30,-60 20,-30 C20,-10 10,10 0,10 C-10,10 -20,-10 -20,-30"/>
+    <path d="M0,10 C0,30 -30,60 -20,90 C-10,60 0,30 0,10 Z"/>
+    <path d="M0,10 C0,30 30,60 20,90 C30,60 0,30 0,10 Z"/>
+    <circle cx="0" cy="-100" r="15" fill="none" stroke="#000" stroke-width="8"/>
+  </g>
+  
+  <!-- 锚标志 -->
+  <g transform="translate(700, 130)" stroke="#000" stroke-width="15" fill="none">
+    <path d="M0,-40 L0,40 L-30,40 L-30,60 C-30,80 -10,90 0,90 C10,90 30,80 30,60 L30,40 L0,40"/>
+    <path d="M-50,0 C-50,-20 -30,-30 -20,-30 C-10,-30 10,-20 10,0 C10,20 -10,30 -20,30 C-30,30 -50,20 -50,0 Z"/>
+    <path d="M-50,0 L50,0"/>
+  </g>
+</svg>
