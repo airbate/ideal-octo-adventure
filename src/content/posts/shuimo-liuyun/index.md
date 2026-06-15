@@ -8,6 +8,8 @@ description: 用 Stam 的 Stable Fluids 算法 + Beer-Lambert 吸光度模型，
 
 # 水墨流韵 — 在浏览器里重建宣纸上的水与墨
 
+![宣纸上的水与墨：朱砂与藤黄、竹青在宣纸上随波相融](/images/posts/shuimo-liuyun/shuimo-canvas.jpg)
+
 > Demo: [shuimo-liuyun.vercel.app](https://shuimo-liuyun.vercel.app)
 > 源码: [github.com/airbate/shuimo-liuyun](https://github.com/airbate/shuimo-liuyun)
 
@@ -163,6 +165,10 @@ void main() {
    - 在扇面右下角盖一个 44px 的「墨韵」朱文圆角印章
 
 `Save Fan` 直接 `canvas.toDataURL('image/png')` 下载。完整一段 `drawFan()` 函数约 80 行。
+
+下面是实际运行后导出的漆扇效果：
+
+![从宣纸拓出的漆扇成品：13 根扇骨、扇钉、朱文「墨韵」印章，扇面是水流纹拓下的黛青墨色](/images/posts/shuimo-liuyun/shuimo-fan.jpg)
 
 ## 一些性能取舍
 
