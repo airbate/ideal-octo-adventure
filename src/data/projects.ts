@@ -101,6 +101,21 @@ export const projectsData: Project[] = [
 		startDate: "2024-07-01",
 		tags: ["E-commerce", "Full Stack", "Payment Integration"],
 	},
+	{
+		id: "shuimo-liuyun",
+		title: "水墨流韵 / Ink Flow",
+		description:
+			"在宣纸上以指尖作笔的水墨流体模拟。基于 Stam Stable Fluids 算法与 Beer-Lambert 吸光度模型，五种传统中国颜料（玄墨/黛青/朱砂/竹青/藤黄），宣纸底纹、漆扇合成与 PNG 导出。单文件、零依赖、纯 WebGL。",
+		image: "",
+		category: "web",
+		techStack: ["WebGL", "GLSL", "Stable Fluids", "Canvas 2D", "JavaScript"],
+		status: "completed",
+		liveDemo: "https://shuimo-liuyun.vercel.app",
+		sourceCode: "https://github.com/airbate/shuimo-liuyun",
+		startDate: "2026-06-14",
+		featured: true,
+		tags: ["WebGL", "流体模拟", "Shader", "艺术", "单文件"],
+	},
 ];
 
 // Get project statistics
