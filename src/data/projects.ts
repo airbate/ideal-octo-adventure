@@ -106,7 +106,7 @@ export const projectsData: Project[] = [
 		title: "水墨流韵 / Ink Flow",
 		description:
 			"在宣纸上以指尖作笔的水墨流体模拟。基于 Stam Stable Fluids 算法与 Beer-Lambert 吸光度模型，五种传统中国颜料（玄墨/黛青/朱砂/竹青/藤黄），宣纸底纹、漆扇合成与 PNG 导出。单文件、零依赖、纯 WebGL。",
-		image: "",
+		image: "/images/posts/shuimo-liuyun/shuimo-fan.jpg",
 		category: "web",
 		techStack: ["WebGL", "GLSL", "Stable Fluids", "Canvas 2D", "JavaScript"],
 		status: "completed",
