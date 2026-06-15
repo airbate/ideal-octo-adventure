@@ -116,6 +116,21 @@ export const projectsData: Project[] = [
 		featured: true,
 		tags: ["WebGL", "流体模拟", "Shader", "艺术", "单文件"],
 	},
+	{
+		id: "numerologist-skills",
+		title: "Numerologist Skills / 赛博半仙的紧箍咒",
+		description:
+			"给 AI 算命装上确定性计算与规则约束：奇门遁甲、紫微斗数、四柱八字三个 skill。奇门走 Python 刚性排盘脚本，紫微/八字用 references 固定术语口径。目标不是让 LLM 更懂玄学，而是减少它在排盘、流派、判断顺序上的幻觉。",
+		image: "",
+		category: "other",
+		techStack: ["Claude Code Skills", "Python", "lunar_python", "Markdown", "Prompt Engineering"],
+		status: "completed",
+		liveDemo: "https://github.com/airbate/Numerologist_skills",
+		sourceCode: "https://github.com/airbate/Numerologist_skills",
+		startDate: "2026-03-25",
+		featured: true,
+		tags: ["Claude Code", "LLM", "Prompt Engineering", "传统术数", "奇门遁甲", "紫微斗数", "四柱八字"],
+	},
 ];
 
 // Get project statistics
