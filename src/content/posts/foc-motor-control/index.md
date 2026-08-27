@@ -1,6 +1,6 @@
 ---
 title: 永磁同步电机 FOC 控制：从 Clarke-Park 变换到电流环整定
-published: 2025-08-12
+published: 2026-06-23
 tags: [FOC, 电机控制, PMSM, 矢量控制, 电流环]
 category: 机器人
 description: 深入解析磁场定向控制（FOC）的数学原理与工程实现，涵盖 Clarke/Park 变换、SVPWM 调制和 PI 电流环参数整定方法。

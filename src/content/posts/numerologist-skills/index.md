@@ -1,6 +1,6 @@
 ---
 title: 给 AI 算命装上确定性计算 — Numerologist Skills 项目总览
-published: 2026-06-15
+published: 2026-08-11
 tags: [Claude Code, LLM, Prompt Engineering, 奇门遁甲, 紫微斗数, 四柱八字, 传统术数]
 category: AI Engineering
 description: 把奇门遁甲、紫微斗数、四柱八字三个传统术数系统，拆成可审计、可复用的 Claude Code skill。核心思路：先追问 → 刚性计算外包给脚本 → 解读时固定口径，最大限度减少 LLM 在排盘与流派上的幻觉。

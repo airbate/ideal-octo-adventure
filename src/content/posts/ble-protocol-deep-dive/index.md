@@ -1,6 +1,6 @@
 ---
 title: BLE 蓝牙协议栈深度解析：从物理层到 GATT 的每一层
-published: 2025-08-28
+published: 2026-06-25
 tags: [BLE, 蓝牙, 无线通信, 协议栈, IoT]
 category: 物联网
 description: 逐层拆解 BLE 5.x 协议栈——物理层的 GFSK 调制、链路层的状态机、L2CAP 的分片重组、以及 GATT 的服务发现机制。

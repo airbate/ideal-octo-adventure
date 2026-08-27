@@ -1,6 +1,6 @@
 ---
 title: 电源管理 IC 选型指南：从 LDO 到 DC-DC 的工程设计决策
-published: 2025-09-22
+published: 2026-08-23
 tags: [电源管理, LDO, DC-DC, 电源设计, 硬件选型]
 category: 硬件设计
 description: 全面对比 LDO、Buck、Boost、Buck-Boost 拓扑的工程选型策略，涵盖效率计算、纹波控制和热管理考虑。

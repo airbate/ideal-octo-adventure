@@ -1,6 +1,6 @@
 ---
 title: 嵌入式 RTOS 内核分析：FreeRTOS 的任务调度与内存管理
-published: 2025-07-28
+published: 2026-07-03
 tags: [FreeRTOS, RTOS, 嵌入式系统, 任务调度, 实时操作系统]
 category: 嵌入式系统
 description: 深入分析 FreeRTOS 内核的三大核心机制——抢占式调度器实现、队列与信号量的数据结构和内存管理策略。

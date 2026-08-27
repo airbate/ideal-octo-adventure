@@ -1,6 +1,6 @@
 ---
 title: I2C、SPI、UART 总线协议深度对比：选型不再犹豫
-published: 2025-04-18
+published: 2026-07-17
 tags: [I2C, SPI, UART, 通信协议, 嵌入式, 总线]
 category: 嵌入式系统
 description: 从物理层到协议层的全方位对比 I2C、SPI、UART 三大嵌入式总线协议，包含时序分析、实际波形案例和选型决策树。

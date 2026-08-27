@@ -1,6 +1,6 @@
 ---
 title: 高速数字电路设计：DDR 布线、时序分析与眼图测量
-published: 2025-06-25
+published: 2026-08-08
 tags: [高速电路, DDR, 时序分析, 信号完整性, 眼图]
 category: 硬件设计
 description: 深入探讨 DDR4/LPDDR4 高速并行总线的设计要点——Fly-by 拓扑、写均衡、眼图模板测试和 PCB 布局约束。

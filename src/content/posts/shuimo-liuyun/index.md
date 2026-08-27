@@ -1,6 +1,6 @@
 ---
 title: 水墨流韵 — 在浏览器里重建宣纸上的水与墨
-published: 2026-06-14
+published: 2026-08-20
 tags: [WebGL, GLSL, Stable Fluids, 流体模拟, 艺术, Shader]
 category: 可视化与图形
 description: 用 Stam 的 Stable Fluids 算法 + Beer-Lambert 吸光度模型，在单文件 HTML 里复刻「水墨流韵」水拓丹青站点。9 个 GLSL 着色器、5 种传统墨色、宣纸纹理、漆扇导出。

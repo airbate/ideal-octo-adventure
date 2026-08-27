@@ -1,6 +1,6 @@
 ---
 title: 从 CUDA Kernel 到 PyTorch 自定义算子：接口、Autograd 与验证
-published: 2026-08-27
+published: 2026-07-29
 tags: [CUDA, PyTorch, C++/CUDA, 自定义算子]
 category: 芯片与算子
 description: 介绍把 CUDA Kernel 接入 PyTorch 的最小工程闭环：算子注册、设备检查、反向传播、测试与基准。

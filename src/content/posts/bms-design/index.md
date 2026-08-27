@@ -1,6 +1,6 @@
 ---
 title: 电池管理系统（BMS）设计：从电芯监控到均衡策略的完整方案
-published: 2025-05-20
+published: 2026-06-21
 tags: [BMS, 电池管理, 锂离子电池, SOC估算, 电源管理]
 category: 硬件设计
 description: 完整讲解锂电池 BMS 的硬件架构、AFE 芯片选型、SOC/SOH 估算算法以及被动/主动均衡策略的工程实现。

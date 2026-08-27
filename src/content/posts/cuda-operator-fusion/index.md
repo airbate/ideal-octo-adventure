@@ -1,6 +1,6 @@
 ---
 title: CUDA 算子融合的边界：什么时候融合反而变慢
-published: 2026-08-27
+published: 2026-07-24
 tags: [CUDA, 算子, Kernel, 性能]
 category: 技术实践
 description: 从访存次数、寄存器压力和 shape 变化分析 CUDA 算子融合的收益与代价。

@@ -1,6 +1,6 @@
 ---
 title: 计算机组成原理：从门电路到一个能跑 Linux 的 CPU
-published: 2025-05-05
+published: 2026-07-02
 tags: [计算机体系结构, CPU, 数字电路, 流水线, 缓存]
 category: 计算机体系结构
 description: 用从下到上的视角，从晶体管出发逐层搭建理解 CPU 的核心概念——组合逻辑、时序逻辑、流水线、缓存一致性。

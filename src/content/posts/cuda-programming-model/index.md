@@ -1,6 +1,6 @@
 ---
 title: CUDA 编程模型入门：从线程层次到一次 Kernel 执行
-published: 2026-08-27
+published: 2026-06-24
 tags: [CUDA, GPU, 并行计算, 芯片]
 category: 芯片与算子
 description: 用一个向量加法例子理解 CUDA 的 Grid、Block、Thread 层次，以及 Host 与 Device 之间的数据流。

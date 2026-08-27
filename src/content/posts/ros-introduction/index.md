@@ -1,6 +1,6 @@
 ---
 title: ROS 机器人操作系统入门：从节点通信到自主导航
-published: 2025-03-30
+published: 2026-07-21
 tags: [ROS, 机器人, 导航, SLAM, 传感器]
 category: 机器人
 description: ROS 2 入门实战指南——从核心概念（节点、话题、服务）到 Navigation2 自主导航栈的完整配置流程。

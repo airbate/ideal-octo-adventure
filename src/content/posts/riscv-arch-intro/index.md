@@ -1,6 +1,6 @@
 ---
 title: RISC-V 架构入门与实战：为什么开源指令集正在改变硬件世界
-published: 2025-12-15
+published: 2026-07-14
 tags: [RISC-V, 处理器架构, 开源硬件, 嵌入式]
 category: 计算机体系结构
 description: 从指令集基础到实际 SoC 设计，全面解读 RISC-V 架构的技术优势、生态现状与实战入门路径。

@@ -1,6 +1,6 @@
 ---
 title: CUDA 算子性能优化：从访存合并到占用率的实战路径
-published: 2026-08-27
+published: 2026-08-18
 tags: [CUDA, Kernel, 性能优化, 算子]
 category: 芯片与算子
 description: 一套可复用的 CUDA Kernel 优化顺序：先确认带宽与计算瓶颈，再处理访存、共享内存、寄存器和融合。

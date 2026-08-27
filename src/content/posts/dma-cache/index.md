@@ -1,6 +1,6 @@
 ---
 title: DMA 与 Cache 一致性：嵌入式数据错乱的常见根因
-published: 2026-08-17
+published: 2026-07-09
 tags: [DMA, Cache, 嵌入式]
 category: 技术实践
 description: 说明 cache clean/invalidate、缓冲区对齐和环形 DMA 的协作方式。
@@ -23,4 +23,3 @@ description: 说明 cache clean/invalidate、缓冲区对齐和环形 DMA 的协
 一个可交付的实现必须说明支持的输入范围、精度或时序裕量、资源消耗和已知限制。将参考实现作为正确性基线，把回归测试、边界案例和错误处理纳入提交标准。这样得到的结论才能从一次 demo 变成可维护的工程知识。
 
 这也是我在芯片、CUDA 和嵌入式开发中最看重的习惯：先把问题变得可测量，再让优化和抽象建立在证据之上。
-

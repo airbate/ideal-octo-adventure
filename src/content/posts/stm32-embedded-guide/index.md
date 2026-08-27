@@ -1,6 +1,6 @@
 ---
 title: 从零搭建 STM32 嵌入式开发环境：工具链、调试与工程化
-published: 2025-11-15
+published: 2026-08-27
 tags: [STM32, ARM Cortex-M, 嵌入式系统, 调试, 工具链]
 category: 嵌入式系统
 description: 系统化梳理 STM32 嵌入式开发的完整环境搭建流程，涵盖 GCC 工具链、OpenOCD 调试、RTOS 集成和 CI/CD 实践。

@@ -1,6 +1,6 @@
 ---
 title: FPGA 开发实战：Verilog 入门与状态机设计精要
-published: 2025-10-20
+published: 2026-08-07
 tags: [FPGA, Verilog, 数字电路, 硬件描述语言, 状态机]
 category: 硬件设计
 description: 从数字电路基础到 Verilog 可综合设计，深入讲解 FPGA 开发的思维范式转换和状态机设计方法。

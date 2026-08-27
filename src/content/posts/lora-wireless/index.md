@@ -1,6 +1,6 @@
 ---
 title: LoRa 无线通信实战：从扩频原理到远距离网络部署
-published: 2025-06-08
+published: 2026-07-11
 tags: [LoRa, 物联网, 无线通信, 扩频, LPWAN]
 category: 物联网
 description: 深入讲解 LoRa 的 CSS 扩频调制原理、链路预算计算，以及实际部署中天线选型、功耗优化和网络拓扑的设计决策。

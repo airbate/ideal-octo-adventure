@@ -1,6 +1,6 @@
 ---
 title: 芯片模块验证计划：从断言到覆盖率闭环
-published: 2026-08-27
+published: 2026-08-01
 tags: [芯片设计, 验证, SystemVerilog, 覆盖率]
 category: 技术实践
 description: 为 RTL 模块建立可执行的验证计划，覆盖场景、断言、参考模型和回归策略。
