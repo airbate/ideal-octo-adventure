@@ -31,3 +31,5 @@ yarn.lock
 *.iml
 
 cache/
+# Local Netlify folder
+.netlify
